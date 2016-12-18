@@ -1,0 +1,14 @@
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\bin\Debug\ITC110Assignment8.exe.config
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\bin\Debug\ITC110Assignment8.exe
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\bin\Debug\ITC110Assignment8.pdb
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\ITC110Assignment8.csprojResolveAssemblyReference.cache
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\MainWindow.g.cs
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\App.g.cs
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\ITC110Assignment8_MarkupCompile.cache
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\ITC110Assignment8_MarkupCompile.lref
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\MainWindow.baml
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\ITC110Assignment8.g.resources
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\ITC110Assignment8.Properties.Resources.resources
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\ITC110Assignment8.csproj.GenerateResource.Cache
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\ITC110Assignment8.exe
+c:\users\vanve\onedrive\documents\visual studio 2015\Projects\ITC110Assignment8\ITC110Assignment8\obj\Debug\ITC110Assignment8.pdb
